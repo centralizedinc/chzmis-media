@@ -1,0 +1,15 @@
+{
+  "name": "media-server",
+  "version": "1.0.0",
+  "description": "Node Media Server",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node app.js"
+  },
+  "author": "abalita@centralizedinc.com",
+  "license": "ISC",
+  "dependencies": {
+    "node-media-server": "^2.1.3"
+  }
+}
